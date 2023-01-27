@@ -1,0 +1,47 @@
+p{
+  color: #14c0ff;
+  font-family: Dialog;
+  font-size: 17px;
+  background: deeppink;
+  rotate: x;
+}
+button{
+  color: red;
+  padding: 15px;
+  font-size: 16px;
+  background: black;
+  border: 0;
+  text-align: center;
+  margin: 20px;
+}
+h1{
+  background: crimson;
+  text-align: center;
+}
+td,th {
+  border: 2px solid deepskyblue;
+  font-family: Chilanka;
+  padding: 10px;
+  text-align: center;
+  color: deeppink;
+  background: black;
+  border-radius: 10px;
+}
+table{
+  width: 90%;
+  border-collapse: collapse;
+  margin: 10px;
+}
+ul{
+  color: purple;
+  text-align: center;
+  padding: 10px;
+  background: black;
+  font-family: Kalimati;
+}
+
+
+
+
+
+
